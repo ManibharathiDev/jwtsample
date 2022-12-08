@@ -1,0 +1,13 @@
+{
+    "name": "vendor/jwtapp",
+    "description": "This is for testing jwtapplication",
+    "type": "project",
+    "authors": [
+        {
+            "name": "manibharathi"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.3"
+    }
+}
